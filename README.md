@@ -1,4 +1,4 @@
-echo "# 🏨 Hotel Billing Invoice System
+# 🏨 Hotel Billing Invoice System
 
 ## 📋 Description
 The **Hotel Billing Invoice System** is a comprehensive Java-based application designed to streamline the billing process for hotels and restaurants. This project focuses on providing a user-friendly interface for placing orders, generating invoices, and managing administrative tasks like tracking total bill counts and maintaining secure admin access.
